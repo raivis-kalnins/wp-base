@@ -8,6 +8,7 @@ Features:
 - ACF Builder https://github.com/StoutLogic/acf-builder/wiki
 - Alpine.js lightweight, JavaScript framework https://alpinejs.dev
 - Swiper JS / Data Tables JS / Google Charts JS / Select 2
+- Timber / Twig templates https://timber.github.io/docs/v2/
 
 1. Before run this theme for new project:
     1.1 First need to add & run plugin ACF Pro: https://www.advancedcustomfields.com/pro/ & later use https://github.com/StoutLogic/acf-builder
